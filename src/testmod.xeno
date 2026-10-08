@@ -1,0 +1,19 @@
+import <collections>
+
+@Mod(MyMod.MOD_ID)
+class MyMod
+{
+	public:
+		static final string MOD_ID = "testmod";
+
+		List<string> items = new List<string>();
+
+		MyMod()
+		{
+			print("Hello from MyMod!");
+			print("Mod ID: " + MyMod.MOD_ID);
+
+
+			print("Hi Mom!");
+		}
+}

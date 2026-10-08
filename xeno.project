@@ -1,0 +1,7 @@
+[mod]
+id          = "testmod"
+version     = "1.0.0"
+author      = "Tigga"
+description = "My first mod"
+
+[dependencies]

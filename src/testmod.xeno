@@ -12,8 +12,5 @@ class MyMod
 		{
 			print("Hello from MyMod!");
 			print("Mod ID: " + MyMod.MOD_ID);
-
-
-			print("Hi Mom!");
 		}
 }
